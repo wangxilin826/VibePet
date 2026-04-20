@@ -4,8 +4,11 @@
 
 ---
 ## 产品demo展示
+
 Netlify（国内可用）：https://69e4bb02cfc8b923c8a1c8f4--kaleidoscopic-kleicha-caa000.netlify.app
+
 Vercel（搭载🪜可用）：https://vibe-pet-eosin.vercel.app
+
 注：以上链接需要使用google浏览器打开
 
 ---
